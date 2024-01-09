@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zero-motor/static/css/main.c8d3d243.css",
+    "main.js": "/zero-motor/static/js/main.76e8b305.js",
+    "static/js/787.a438019f.chunk.js": "/zero-motor/static/js/787.a438019f.chunk.js",
+    "static/media/bike-image.png": "/zero-motor/static/media/bike-image.968114928215d13b16bb.png",
+    "index.html": "/zero-motor/index.html",
+    "main.c8d3d243.css.map": "/zero-motor/static/css/main.c8d3d243.css.map",
+    "main.76e8b305.js.map": "/zero-motor/static/js/main.76e8b305.js.map",
+    "787.a438019f.chunk.js.map": "/zero-motor/static/js/787.a438019f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8d3d243.css",
+    "static/js/main.76e8b305.js"
+  ]
+}
